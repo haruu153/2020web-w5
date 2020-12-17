@@ -10,7 +10,7 @@ function randomValueFromArray(array){
 let storyText = '外は華氏94度だったので、:insertx:は散歩に出かけました。彼らが:inserty:に到達したとき、彼らはしばらくの間恐怖で見つめ、それから:insertz:ボブはおどろきましたが、:insertx:は驚きませんでした。暑い日でした。';
 let insertX = ['ウィリー・ザ・ゴブリン','ビッグダディ','サンタクロース'];
 let insertY = ['スープキッチン','ディズニーランド','ホワイトハウス'];
-let insertZ = ['spontaneously combusted','melted into a puddle on the sidewalk','turned into a slug and crawled away'];
+let insertZ = ['自然発火しました。','歩道の水たまりに溶けました。','ナメクジになって這いさっていきました。'];
 
 randomize.addEventListener('click', result);
 
